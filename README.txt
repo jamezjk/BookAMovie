@@ -15,7 +15,7 @@ How to Use:
 
 1.Clone the Repository:
 
-git clone https://github.com/your-username/movie-magic.git
+git clone https://github.com/jamezjk/BookAMovie.git
 
 2.Run the Python Script:
 
